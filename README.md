@@ -26,7 +26,7 @@ conflict를 일부로 내보겠습니다.
 
 당황스럽게도 에러사항이 너무 쉽게 해결되었다..
 
-추가 고려사항.
+asdl;kfjasldkjf
 
 Params를 넣는 과제를 나중에 해보자.
 something change
