@@ -29,3 +29,4 @@ npm = discord.js, web3(infura),
 추가 고려사항.
 
 Params를 넣는 과제를 나중에 해보자.
+something change
