@@ -12,7 +12,7 @@ npm = discord.js, web3(infura),
 
 1. discord.js로 /image 커맨드를 작성한다.   
 
-2. discord 앱 에서 /image 커맨드를 입력한다.
+2. discord 앱 에서 /image 커맨드를 입력한다.   
 
 3. infura로 원격 이더리움 노드에 접근하여, NFT 이미지를 가져온다.
 
