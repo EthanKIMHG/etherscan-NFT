@@ -10,7 +10,7 @@ npm = discord.js, web3(infura),
 
 /image 하면, 저희가 지정한 NFT 이미지가 올 수 있게.
 
-1. discord.js로 /image 커맨드를 작성한다.
+1. discord.js로 /image 커맨드를 작성한다.   
 
 2. discord 앱 에서 /image 커맨드를 입력한다.
 
